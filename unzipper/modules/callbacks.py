@@ -1,6 +1,3 @@
-# Copyright (c) 2021 Itz-fork
-# Don't kang this else your dad is gae
-
 import os
 import re
 import shutil
