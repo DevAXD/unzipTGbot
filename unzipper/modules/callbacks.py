@@ -12,7 +12,7 @@ from .bot_data import Buttons, Messages, ERROR_MSGS
 from .ext_script.ext_helper import extr_files, get_files, make_keyboard
 from .ext_script.up_helper import send_file
 from .commands import https_url_regex
-from unzipper.helpers_nexa.unzip_help import progress_for_pyrogram, TimeFormatter, humanbytes
+from unzipper.helpers.unzip_help import progress_for_pyrogram, TimeFormatter, humanbytes
 from config import Config
 
 # Callbacks
