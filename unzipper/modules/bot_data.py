@@ -67,7 +67,7 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
 
 `I can extract archives like zip, rar, tar etc.`
 
-**Made with ❤️ by @Xaadhu**
+**Made with ❤️ by @DevAXD**
     """
 
     HELP_TXT = """
@@ -86,15 +86,15 @@ Hi **{}**, I'm **Nexa Unzipper Bot** 😇!
     """
 
     ABOUT_TXT = """
-**About Nexa Unzipper Bot,**
+**About Unzipper Bot,**
 
 
 
-✘ **Source Code:** [Axdhu](https://github.com/Axdhu/Unzipper-Bot)
+✘ **Source Code:** [DevAXD](https://github.com/DevAXD/unzipTGbot)
 
 
 
-**Made with ❤️ by @Xaadhu**
+**Made with ❤️ by @DevAXD**
     """
 
     LOG_TXT = """
