@@ -19,7 +19,7 @@ from unzipper.helpers.database import (
     del_banned_user,
     count_banned_users
     )
-from unzipper.helpers_nexa.unzip_help import humanbytes
+from unzipper.helpers.unzip_help import humanbytes
 from config import Config
 
 
