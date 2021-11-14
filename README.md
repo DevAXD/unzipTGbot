@@ -2,11 +2,12 @@
 
 <h1 align="center">UNZIP TELEGRAM BOT</h1>
 
-#deploy to HEROKU
-  <a href="https://www.heroku.com/deploy?template=https://github.com/DevAXD/unzipTGbot">
+# Deploy to HEROKU
+  
+ <a href="https://www.heroku.com/deploy?template=https://github.com/DevAXD/unzipTGbot">
     <img src="https://www.herokucdn.com/deploy/button.svg">
-  </a>
+ </a>
 
 
 
-#Thank u ... ❤️
+# Thank u ... ❤️
