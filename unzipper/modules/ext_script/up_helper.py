@@ -1,6 +1,3 @@
-# Copyright (c) 2021
-# Don't kang this else your dad is gae
-
 import os
 import shutil
 import asyncio
